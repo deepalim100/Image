@@ -1,2 +1,2 @@
 # Image
-just a basic one for Image processing
+Basic operations onImage processing through opencv.

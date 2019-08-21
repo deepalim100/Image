@@ -1,2 +1,2 @@
 # Image
-Basic operations onImage processing through opencv.
+Basic operations on Image processing through opencv.
